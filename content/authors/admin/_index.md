@@ -71,4 +71,4 @@ Product lifecycle management in the medical and diagnostic device industry is my
 
 My passion is to translate research into innovative medical healthcare solutions and lead development of complex systems into global commercialization.
 
-I bring strong leadership in engineering and software teams, with unique focus on efficient processes through Lean and Agile principles.
+I bring strong leadership in engineering and software teams, with unique experience in efficient processes through Lean and Agile principles.
