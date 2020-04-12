@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "atlassian"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Agile"
   description = "70%"
 
