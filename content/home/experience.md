@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "www.invetechgroup.com"
   location = "California"
   date_start = "2018-01-01"
-  date_end = ""
+#  date_end = ""
   description = """
   Responsibilities include:
   
@@ -34,9 +34,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Vice President"
-  company = "Roche/Ventana"
+  company = "Roche Tissue Dx (Ventana)"
   company_url = "https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html"
-  location = "California"
+  location = "Arizona"
   date_start = "2012-09-01"
   date_end = "2017-11-31"
   description = """
