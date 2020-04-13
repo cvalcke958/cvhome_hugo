@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Global Director"
   company = "Invetech"
-  company_url = "www.invetechgroup.com"
+  company_url = "https://www.invetechgroup.com/"
   location = "California"
   date_start = "2018-01-01"
 #  date_end = ""
