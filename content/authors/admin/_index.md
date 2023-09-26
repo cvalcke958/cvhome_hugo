@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Global Director
+role: Chief Product Development Officer
 
 # Organizations/Affiliations
 organizations:
-- name: Invetech
-  url: "www.invetechgroup.com"
+- name: Atonarp
+  url: "www.atonarp.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cloud computing, IoT and machine learning.
+bio: My research interests include cloud computing, IoT, HomeLab and machine learning.
 
 interests:
 - Artificial Intelligence
 - IoT
-- Information Management
+- Information Management/Homelab
 
 education:
   courses:
